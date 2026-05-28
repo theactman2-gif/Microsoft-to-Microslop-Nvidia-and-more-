@@ -1,5 +1,5 @@
 # Microsoft-to-Microslop-Nvidia-and-more- (Chromium only)
-A fork or Modified version of the extension Microsoft to Microslop made by 4O4-wasd
+A fork or Modified version of the extension Microsoft to Microslop made by 4O4-wasd.
 Credit goes to them https://github.com/4O4-wasd/Microslop
 This fork Includes more keywords being replaced, Redone option ui (Albeit lazily, But still.)
 and an easter egg too!
