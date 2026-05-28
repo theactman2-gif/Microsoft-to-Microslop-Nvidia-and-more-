@@ -22,7 +22,7 @@ Step 2 : <img width="1919" height="959" alt="d" src="https://github.com/user-att
 Enable developer mode.
 
 
-Step 3 : Extract the zip file you download from the release page (Hopefully you know how to extract a zip file)
+Step 3 : Extract the zip file you downloaded from the release page (Hopefully you know how to extract a zip file)
 Then Put it In a directory in your computer.
 (DO NOT MOVE SAID FILE FROM THE DIRECTORY YOU PLACED IT IN AT ANY POINT OR YOU'LL HAVE TO REDO SOME STEPS!)
 
