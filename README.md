@@ -2,7 +2,7 @@
 A fork or Modified version of the extension Microsoft to Microslop made by 4O4-wasd.
 Credit goes to them https://github.com/4O4-wasd/Microslop
 This fork Includes more keywords being replaced, Redone option ui (Albeit lazily, But still.)
-and an easter egg too!
+and an easter egg too! (Not hidden at all, Still is either way.)
 
 
 Updates may come one day with more surprises and added keywords. No promises held though. It may just sit there abandoned completely!
