@@ -31,7 +31,7 @@ Enable developer mode.
 
 
 Step 3 : Extract the zip file you downloaded from the release page (Hopefully you know how to extract a zip file)
-Then Put it In a directory in your computer.
+Then Put it In a directory on your computer.
 (DO NOT MOVE SAID FILE FROM THE DIRECTORY YOU PLACED IT IN AT ANY POINT OR YOU'LL HAVE TO REDO SOME STEPS!)
 
 Step 4 : <img width="1920" height="956" alt="Capture" src="https://github.com/user-attachments/assets/77e61ec6-bc18-4bee-bb25-6feb820be11e" />
