@@ -8,6 +8,14 @@ and an easter egg too! (Not hidden at all, Still is either way.)
 Updates may come one day with more surprises and added keywords. No promises held though. It may just sit there abandoned completely!
 
 
+Planned Update
+1. Redesigned Icon.
+2. Popup redesign.
+3. Keywords modified counter on the popup option menu. 
+4. More fun wacky shit.
+
+
+
 (Ps : If you are unhappy with this 404-wasd, Contact me and i shall remove this repository)
 
 
